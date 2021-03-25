@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f5428586-85ab-43b0-9546-19efa961da99" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>CreateClaimForRefusalResult</find>
+      <find>do_CreateClaimForRefusal</find>
+      <find>RouteHub</find>
+      <find>отмен</find>
+      <find>do_</find>
+      <find>SetActionProperty</find>
+      <find>CreateClaimForRefusal</find>
+    </findStrings>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectId" id="1UnXfWH7f7j8Qpo50MkRaEJMXc2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../Program Files (x86)/php/php-5.6.27-nts-Win32-VC11-x64" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\OSPanel\domains\localhost\test.loc\test4" />
+      <recent name="C:\OSPanel\domains\localhost\test.loc\test_habr" />
+    </key>
+  </component>
+  <component name="RunManager" selected="PHP Script.CheckPatient.php">
+    <configuration name="server.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/test.loc/test_wsdl/server.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="CheckPatient.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/test4/CheckPatient.php">
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JavaScript Debug.server.php" />
+      <item itemvalue="PHP Script.CheckPatient.php" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHP Script.CheckPatient.php" />
+        <item itemvalue="JavaScript Debug.server.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f5428586-85ab-43b0-9546-19efa961da99" name="Default" comment="" />
+      <created>1536818292280</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1536818292280</updated>
+      <workItem from="1536818293540" duration="4416000" />
+      <workItem from="1537169835198" duration="458000" />
+      <workItem from="1537170308526" duration="26966000" />
+      <workItem from="1537272222107" duration="56324000" />
+      <workItem from="1539246583535" duration="786000" />
+      <workItem from="1539248488262" duration="1847000" />
+      <workItem from="1539347857559" duration="566000" />
+      <workItem from="1539674905322" duration="2058000" />
+      <workItem from="1539934608395" duration="3241000" />
+      <workItem from="1540212953558" duration="1583000" />
+      <workItem from="1540289555202" duration="2281000" />
+      <workItem from="1540302490169" duration="635000" />
+      <workItem from="1540375843405" duration="3651000" />
+      <workItem from="1540547815067" duration="9678000" />
+      <workItem from="1542258785045" duration="6653000" />
+      <workItem from="1542604202509" duration="12954000" />
+      <workItem from="1542777940045" duration="4208000" />
+      <workItem from="1542807203122" duration="730000" />
+      <workItem from="1542949035648" duration="94000" />
+      <workItem from="1542949198951" duration="7153000" />
+      <workItem from="1545377848697" duration="1210000" />
+      <workItem from="1547040483124" duration="1341000" />
+      <workItem from="1547098834127" duration="12000" />
+      <workItem from="1548059798353" duration="12000" />
+      <workItem from="1548147320703" duration="6000" />
+      <workItem from="1548768939435" duration="1447000" />
+      <workItem from="1552629503920" duration="41000" />
+      <workItem from="1552630222881" duration="131000" />
+      <workItem from="1552630405825" duration="756000" />
+      <workItem from="1552905200942" duration="669000" />
+      <workItem from="1553342989633" duration="2039000" />
+      <workItem from="1554710014520" duration="217000" />
+      <workItem from="1554710317955" duration="371000" />
+      <workItem from="1554711172323" duration="14186000" />
+      <workItem from="1557840745934" duration="2047000" />
+      <workItem from="1562241370593" duration="24000" />
+      <workItem from="1562326857790" duration="68000" />
+      <workItem from="1562574691500" duration="1944000" />
+      <workItem from="1562748767951" duration="1580000" />
+      <workItem from="1571140717461" duration="1869000" />
+      <workItem from="1571207526045" duration="46000" />
+      <workItem from="1575993438537" duration="5928000" />
+      <workItem from="1616671998085" duration="93000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="634" y="353" key="NewPhpFileDialog" timestamp="1616672028340">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="634" y="353" key="NewPhpFileDialog/-1600.0.1600.860/0.0.1600.860@0.0.1600.860" timestamp="1616672028340" />
+  </component>
+</project>
