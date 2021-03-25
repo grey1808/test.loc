@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f5428586-85ab-43b0-9546-19efa961da99" name="Default" comment="" />
+    <list default="true" id="f5428586-85ab-43b0-9546-19efa961da99" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,8 +33,12 @@
       <find>CreateClaimForRefusal</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
   <component name="ProjectId" id="1UnXfWH7f7j8Qpo50MkRaEJMXc2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -40,7 +46,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../Program Files (x86)/php/php-5.6.27-nts-Win32-VC11-x64" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -135,7 +141,7 @@
       <workItem from="1571140717461" duration="1869000" />
       <workItem from="1571207526045" duration="46000" />
       <workItem from="1575993438537" duration="5928000" />
-      <workItem from="1616671998085" duration="93000" />
+      <workItem from="1616671998085" duration="201000" />
     </task>
     <servers />
   </component>
@@ -151,6 +157,18 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
+    <state x="580" y="171" key="FileChooserDialogImpl" timestamp="1616672108284">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="580" y="171" key="FileChooserDialogImpl/-1600.0.1600.860/0.0.1600.860@0.0.1600.860" timestamp="1616672108284" />
+    <state x="678" y="327" key="Github.ShareDialog" timestamp="1616672139875">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="678" y="327" key="Github.ShareDialog/-1600.0.1600.860/0.0.1600.860@0.0.1600.860" timestamp="1616672139875" />
+    <state x="620" y="128" key="Github.UntrackedFilesDialog" timestamp="1616672166476">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="620" y="128" key="Github.UntrackedFilesDialog/-1600.0.1600.860/0.0.1600.860@0.0.1600.860" timestamp="1616672166476" />
     <state x="634" y="353" key="NewPhpFileDialog" timestamp="1616672028340">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
